@@ -109,12 +109,10 @@ No logical inconsistencies exist across joined datasets
 
 Invalid records are filtered out before generating the final report.
 
-## Sample Output
-
-Screenshots of the generated reports are available in the `screenshots/` folder.
 
 
 Author
 
 Chanchal
+
 
